@@ -1,4 +1,4 @@
-# TASK02_GroupedAnalysisandPolars
+
 # Milestone A - Descriptive Statistics and Grouped Analysis
 
 ## Project Description
